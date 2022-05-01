@@ -1,4 +1,3 @@
-from itertools import tee
 from PyQt5.QtWidgets import QWidget, QApplication, QPushButton, QTextEdit, QGridLayout, QToolBar, QToolButton, QMenuBar, QLabel, QBoxLayout
 from PyQt5.QtWidgets import QSlider, QStatusBar, QFileDialog, QInputDialog, QDialog, QRadioButton, QLineEdit, QMessageBox, QFontDialog, QColorDialog
 from PyQt5.QtGui import QIcon, QFont, QCursor, QTextCursor, QColor, QCloseEvent
